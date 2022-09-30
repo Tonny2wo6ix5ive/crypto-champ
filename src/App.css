@@ -1,0 +1,15 @@
+.nav{
+  background-color: red;
+}
+
+.data{
+  border: 1px none ;
+  box-shadow: 1px 1px 1px #808080;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.data:hover{
+  box-shadow: 1px 1px 3px #808080;
+}
